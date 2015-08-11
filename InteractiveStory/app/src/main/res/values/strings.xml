@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">InteractiveStory</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="signals_from_mars">Signals from mars</string>
+    <string name="title_activity_story">StoryActivity</string>
+
+    <string name="key_name">name</string>
+
+
+    <string name="editText_hint">Enter your name to begin</string>
+    <string name="buttonText">START YOUR ADVENTURE</string>
+
+    <string name="page0">On your return trip from studying Saturn\'s rings, you hear a distress signal that seems to be coming from the surface of Mars. It\'s strange because there hasn\'t been a colony there in years. Even stranger, it\'s calling you by name: \"Help me, %1$s, you\'re my only hope.\"</string>
+</resources>
